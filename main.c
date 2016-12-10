@@ -18,6 +18,9 @@ int absVal(int num) {
 }
 
 int main() {
-	printf("Hello world!");
+	
+	int i;
+	scanf("%d", &i);
+	printf("Hello world!  %d" ,i);
 	return 0;	
 }
