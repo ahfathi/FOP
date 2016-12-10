@@ -20,7 +20,6 @@ int absVal(int num) {
 int main() {
 	
 	int i;
-	scanf("%d", &i);
-	printf("Hello world!  %d" ,i);
+	printf("Hello world!  ");
 	return 0;	
 }
